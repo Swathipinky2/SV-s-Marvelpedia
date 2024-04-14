@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.Banner {
+  width: 100%;
+  position: relative;
+}
+
+.text-container {
+  background-color: black;
+  color: white;
+  height: 200px;
+  margin-top: -10px;
+}
